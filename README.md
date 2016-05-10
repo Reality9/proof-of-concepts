@@ -5,7 +5,7 @@
 * code_injection.py - code injection via CreateRemoteThread (32bits)
 * dll_injection.cpp- DLL injection Via CreateRemoteThread() - 32bits processes only
 * dll_injection.py - dll injection via CreateRemoteThread (32bits)
-* dllmain.cpp - DLL injection Via CreateRemoteThread() - 32bits processes only
+* dllmain.cpp - DLL example for proof of concepts
 * file2b64enc_array.py - Convert files to Base64 encoded arrays
 * inject_dir.py - replay directory of network traffic stored in pcap files
 * meerkat.py - Passive DNS monitoring with Suricata
